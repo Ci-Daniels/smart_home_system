@@ -8,6 +8,7 @@ A smart system used to turn the garden lights on/ off, control the opening and c
 - Serial Tank
 - atmega328p microcontroller
 - picsimlab
+- CLCD
 - Blynk application
 
 ### Picsimlab
